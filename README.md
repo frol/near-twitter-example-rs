@@ -1,6 +1,6 @@
 # NEAR Twitter Example - Smart Contract for Backend Engineers
 
-A comprehensive guide to building Twitter-like social media on NEAR blockchain, designed for backend engineers transitioning to Web3 development.
+A comprehensive guide to building Twitter-like social media on [NEAR blockchain](https://dev.near.org), designed for backend engineers transitioning to Web3 development.
 
 ## 🎯 What You'll Learn
 
@@ -344,7 +344,7 @@ pub fn post_tweet(&mut self, text: String) -> Tweet {
 - [Consensus vs Database ACID](https://docs.near.org/concepts/basics/validators)
 
 ### Development Tools
-- [NEAR CLI](https://github.com/near/near-cli) - Command line interface
+- [NEAR CLI](https://github.com/near/near-cli-rs) - Command line interface
 - [NEAR Explorer](https://explorer.near.org) - Blockchain explorer (like database admin tools)
 - [NEAR Wallet](https://wallet.near.org) - User account management
 
