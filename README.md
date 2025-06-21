@@ -102,6 +102,8 @@ cargo near deploy build-reproducible-wasm with-init-call new json-args '{}' prep
 
 ## 📖 API Reference
 
+Here we provide a side-by-side hypothetical REST API endpoints and their equivalents in NEAR Contract Calls.
+
 ### Write Methods (Cost Gas - like POST/PUT/DELETE)
 
 #### `post_tweet(text: String) -> Tweet`
